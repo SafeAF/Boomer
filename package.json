@@ -1,0 +1,19 @@
+{
+  "name": "boomer",
+  "version": "1.0.0",
+  "description": "simple stock tracking and visualization web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafeAF/Boomer.git"
+  },
+  "author": "SafeAF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SafeAF/Boomer/issues"
+  },
+  "homepage": "https://github.com/SafeAF/Boomer#readme"
+}
